@@ -40,8 +40,6 @@ wishlist-app/
 │   └── style.css
 ├── js/
 │   └── app.js
-└── assets/
-    └── img/
 ```
 
 ### Опис виконаної роботи
